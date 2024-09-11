@@ -1,7 +1,7 @@
 # Databricks ETL
 This project it`s an elt using as data source the spotify api, the documentation can be found [here](https://developer.spotify.com/documentation/web-api).
 
-### Technologis
+### Technologies
 The followig tools were used for the development:
 
 - Python
